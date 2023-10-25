@@ -1,0 +1,6 @@
+Import Folder "1st Step" inside "Modul 6 Lab Session" in an empty excel file.
+Load and Transform into Power Query.
+Append the files inside the folder.
+Update your data model with additional data from folder "2nd Step" inside "Module
+6 Lab Session" folder.
+Do the necessary steps to get data into Modelling and upload into Power Pivot.
