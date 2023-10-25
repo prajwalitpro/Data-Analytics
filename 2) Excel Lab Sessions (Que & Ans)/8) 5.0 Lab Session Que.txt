@@ -1,0 +1,5 @@
+Module 5.0 Lab Session
+
+Import File "Module 5.0 Lab Session" in an empty excel file.
+Load and Transform into Power Query.
+Do the necessary steps to get data into Modelling and upload into Power Pivot.

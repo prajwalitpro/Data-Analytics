@@ -1,0 +1,7 @@
+4.0 Lab session Excel
+
+1. Create Relationship between all the three sheets with Power Pivot.
+2. Create data model for each sheet
+3. Create 2 pivot reports accompanied with charts.
+	a. Which item is sold as 'cash' mode of payment
+	b. which Month/year has highest sales
